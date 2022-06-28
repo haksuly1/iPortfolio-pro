@@ -4,6 +4,7 @@
 * Author: BootstrapMade.com
 */
 
+/*
 (function () {
   "use strict";
 
@@ -85,3 +86,4 @@
 
 })();
 
+*/
